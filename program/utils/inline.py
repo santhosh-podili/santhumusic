@@ -13,7 +13,7 @@ def stream_markup(user_id):
     [
       InlineKeyboardButton(text="📠ᴍᴇɴᴜ", callback_data=f'stream_menu_panel | {user_id}'),
       InlineKeyboardButton(text="🚵sᴋɪᴘ", callback_data=f'skip_current_song'),
-      InlineKeyboardButton(text="🔊ᴠᴏʟᴜᴍᴇ", callback_data=f'set_volume'),
+      InlineKeyboardButton(text="🔊ᴠᴏʟᴜᴍᴇ", callback_data=f'change_volume'),
     ], 
     [
       InlineKeyboardButton(text="💘ɴᴇᴛᴡᴏʀᴋ📡", url="https://t.me/santhubotupadates"),
