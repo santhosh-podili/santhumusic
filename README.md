@@ -7,7 +7,12 @@
   <img src="https://telegra.ph/file/61a5e31485a77e7726740.jpg">
 </p>
 
-## ✨ Features
+    
+</details>
+
+<details>
+<summary><b>🔗💖 ғᴇᴀᴛᴜᴇʀs 💘</b></summary>
+<br>
 - Music & Video stream support
 - MultiChat support
 - Playlist & Queue support
@@ -25,7 +30,12 @@
 - SpeedTest Runner
 - Direct Updater
 
-## 🛠 Commands:
+    
+</details>
+
+<details>
+<summary><b>🔗💖 ᴄᴏᴍᴍᴀɴᴅs🛠️🛠️</b></summary>
+<br>
 | Command | Description |
 | ------ | ------ |
 | `/play (query)` | play music from youtube |
@@ -47,18 +57,28 @@
 | `/update` | update your bot directly without leaving telegram (sudo only) |
 | `/restart` | restart your bot directly without leaving telegram (sudo only) |
 
-🧐 ɢᴇɴᴇʀᴀᴛᴇ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ
+    
+</details>
+
+<details>
+<summary><b>🔗 🧐 ɢᴇɴᴇʀᴀᴛᴇ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
+<br>
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SRTheProgrammer/Session-Generator#main.py)
+    
+</details>
 
-🥱 sᴛʀɪɴɢ ʙᴏᴛ 😯
+<details>
+<summary><b>🔗 
+🥱 sᴛʀɪɴɢ ʙᴏᴛ 😯</b></summary>
+<br>
 
 <a href="https://t.me/Santhustringbot"><img src="https://img.shields.io/badge/ᴄʟɪᴄᴋ-Gᴇɴʀᴀᴛᴇ%20sᴛʀɪɴɢ-blue.svg?style=for-the-badge&logo=Telegram"></a> 
     
 </details>
 
 <details>
-<summary><b>🔗 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
+<summary><b>🔗🔥 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🔥</b></summary>
 <br>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Santhumusicbot/santhumusic)
@@ -67,6 +87,6 @@
 </details>
 
 <details>
-<summary><b>🔗 sᴜᴘᴘᴏʀᴛ</b></summary>
+<summary><b>🔗😶 sᴜᴘᴘᴏʀᴛ 💝</b></summary>
 <br>
 <a href="https://t.me/santhubotupadates"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>       <a href="https://t.me/santhuvc"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
