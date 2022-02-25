@@ -79,7 +79,7 @@ async def start_(c: Client, message: Message):
                 ],
                 [InlineKeyboardButton("💗 ʙᴀsɪᴄ ɢᴜɪᴅᴇ ʀᴀ ɴɪʙʙᴀ 🤍", callback_data="user_guide")],
                 [
-                    InlineKeyboardButton("✅ sᴀɴᴛʜᴜ ᴄᴏᴍᴍᴀɴᴅs 💘", callback_data="command_list"),
+                    InlineKeyboardButton("✅ ᴀʀʏᴀ ᴄᴏᴍᴍᴀɴᴅs 💘", callback_data="command_list"),
                     InlineKeyboardButton("🔰 ᴅᴏɴᴀᴛᴇ ʀᴀ ɴɪʙʙᴀ 🔰", url=f"https://t.me/{OWNER_USERNAME}"),
                 ],
                 [
@@ -87,7 +87,7 @@ async def start_(c: Client, message: Message):
                         "💖 ɢʀᴏᴜᴘ ʀᴀ ɴɪʙʙᴀ 💞", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "💝 sᴀɴᴛʜᴜ ɴᴇᴛᴡᴏʀᴋ 🤎", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "💝 ᴀʀʏᴀ ɴᴇᴛᴡᴏʀᴋ 🤎", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [
@@ -95,7 +95,7 @@ async def start_(c: Client, message: Message):
                         "❤ ʏᴏᴜᴛᴜʙᴇ 💚", url="https://youtube.com/channel/UC7QMr8IDR65vciXrwx4XLiQ"
                     ), 
                     InlineKeyboardButton(
-                        "💛 ғᴇᴅᴇʀᴀᴛɪᴏɴ ☺", url="https://t.me/unProfessionalFederation"
+                        "💛 ʙᴜɢs ☺", url="https://t.me/{GROUP_SUPPORT}"
                     ) 
                 ], 
             ]
