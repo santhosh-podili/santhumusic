@@ -22,6 +22,7 @@ UPSTREAM_BRANCH = getenv("UPSTREM_BRANCH", "main")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "60"))
 GROUP_SUPPORT = getenv("GROUP_SUPPORT", "santhuvc")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "santhubotupadates")
+PMPERMIT = getenv("PMPERMIT", "ENABLE")
 
 # database, decorators, handlers mandatory vars
 MONGODB_URL = getenv("MONGODB_URL")
