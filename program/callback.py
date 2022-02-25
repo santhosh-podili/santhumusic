@@ -42,7 +42,7 @@ async def start_set(_, query: CallbackQuery):
                 ],
                 [InlineKeyboardButton("💗 ʙᴀsɪᴄ ɢᴜɪᴅᴇ ʀᴀ ɴɪʙʙᴀ 🤍", callback_data="user_guide")],
                 [
-                    InlineKeyboardButton("✅ sᴀɴᴛʜᴜ ᴄᴏᴍᴍᴀɴᴅs 💘", callback_data="command_list"),
+                    InlineKeyboardButton("✅ ᴀʀʏᴀ ᴄᴏᴍᴍᴀɴᴅs 💘", callback_data="command_list"),
                     InlineKeyboardButton("🔰 ᴅᴏɴᴀᴛᴇ ʀᴀ ɴɪʙʙᴀ 🔰", url=f"https://t.me/{OWNER_USERNAME}"),
                 ],
                 [
@@ -58,7 +58,7 @@ async def start_set(_, query: CallbackQuery):
                         "❤ ʏᴏᴜᴛᴜʙᴇ 💚", url="https://youtube.com/channel/UC7QMr8IDR65vciXrwx4XLiQ"
                     ), 
                     InlineKeyboardButton(
-                        "💛 ғᴇᴅᴇʀᴀᴛɪᴏɴ ☺", url="https://t.me/unProfessionalFederation"
+                        "💛 ᴄʜᴀɴɴᴇʟ ☺", url="https://t.me/{GROUP_SUPPORT}"
                     ) 
                 ], 
             ]
